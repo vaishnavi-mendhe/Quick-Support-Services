@@ -104,8 +104,3 @@ Pull requests are welcome. For major changes, open an issue first to discuss the
 
 See the `LICENSE` file for licensing information.
 
-## 👤 Author
-
-**Anurag Pareek**
-
-- GitHub: https://github.com/Anurag20048
